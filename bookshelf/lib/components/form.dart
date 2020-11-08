@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:partytime/themes/colors.dart';
-import 'package:partytime/themes/style.dart';
+import 'package:bookshelf/themes/style.dart';
+import 'package:bookshelf/themes/colors.dart';
 
 final InputDecoration formDecorationAuth = InputDecoration(
   contentPadding: new EdgeInsets.symmetric(vertical: 12.0, horizontal: 20.0),

@@ -1,4 +1,4 @@
-import 'package:book_app/consttants.dart';
+import 'package:bookshelf/themes/colors.dart';
 import 'package:flutter/material.dart';
 
 class BookRating extends StatelessWidget {

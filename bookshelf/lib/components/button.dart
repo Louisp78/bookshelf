@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:partytime/components/product_category.dart';
-import 'package:partytime/themes/colors.dart';
-
+import 'package:bookshelf/themes/colors.dart';
 
 class GoogleLoginButton extends StatelessWidget {
   final Function onPressed;

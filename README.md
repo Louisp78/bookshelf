@@ -1,2 +1,2 @@
 # bookshelf
-A wonderful app for rating and find your favorite books !
+Collaborative tool for sharing books with your friends.
